@@ -1,3 +1,5 @@
+```bash
+
 # Router → Location Links
 
 This project reads router/locations, and prints unique location-to-location links.  
@@ -7,7 +9,6 @@ If two routers in different locations are linked, their locations are considered
 
 # From local file
 
-```bash
 python main.py --file data.json
 
 
